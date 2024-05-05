@@ -26,12 +26,13 @@
     margin:0px;
 }
 .art img{
-    width:30%;
     display: flex;
-    position:absolute;
-    left: 60%;
+    width:30%;
     border-radius:10%;
-    top: 86%;
+    height:60%;
+    right:80%;
+    margin-top:10%;
+    margin-left:5%;
     animation: float 4s ease-in-out infinite;
 }
 .art .cont{
